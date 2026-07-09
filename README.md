@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=230&section=header&text=ANIKET%20SINGH&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Cloud%20%26%20AWS%20Architect%20%C2%B7%20CSE%20%40%20LPU&descAlignY=62&descSize=17&descColor=B8C6DB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=ANIKET%20SINGH&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20AWS%20Architect%20%7C%20CSE%20%40%20LPU&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/aniket-singh-as"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/imaniketrajput"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -28,7 +28,7 @@ Outside of shipped work, I'm consistently in the DSA trenches — daily LeetCode
 </td>
 <td width="28%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/imaniketrajput/imaniketrajput/main/assets/profile.jpg" width="180" style="border-radius:50%"/>
+<img src="PHOTO_URL_HERE" width="180" style="border-radius:50%"/>
 
 <br><br>
 
@@ -46,15 +46,14 @@ Outside of shipped work, I'm consistently in the DSA trenches — daily LeetCode
 
 <div align="center">
 
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=103478117OCI26CAA"><img src="https://images.credly.com/size/340x340/images/9ae10014-3d47-4a1f-8ba5-7642ac37ac6d/OCI_Certified_Associate_Badge.png" width="90"/></a>
-<a href="https://coursera.org/verify/specialization/0H7CSUCZOTPK"><img src="https://img.shields.io/badge/IBM-JS%20%2F%20React%20%2F%20Node%20%2F%20MongoDB-1F70C1?style=for-the-badge&logo=ibm&logoColor=white"/></a>
-<a href="https://coursera.org/verify/J0OOW12W04BB"><img src="https://img.shields.io/badge/Michigan-Web%20Design%20for%20Everybody-FFCB05?style=for-the-badge&logo=coursera&logoColor=black"/></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=103478117OCI26CAA"><img src="https://img.shields.io/badge/ORACLE-Cloud%20Infra%20Architect%20Associate-F80000?style=for-the-badge"/></a>
+<a href="https://coursera.org/verify/specialization/0H7CSUCZOTPK"><img src="https://img.shields.io/badge/IBM-JS%20%2F%20React%20%2F%20Node%20%2F%20MongoDB-1F70C1?style=for-the-badge"/></a>
+<a href="https://coursera.org/verify/J0OOW12W04BB"><img src="https://img.shields.io/badge/MICHIGAN-Web%20Design%20for%20Everybody-FFCB05?style=for-the-badge"/></a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Oracle-Cloud%20Infra%20Architect%20Associate-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-Operating%20Systems%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cisco-Operating%20Systems%20Basics-1BA0D7?style=flat-square"/>
 <img src="https://img.shields.io/badge/CipherSchools-Core%20Java-orange?style=flat-square"/>
 <img src="https://img.shields.io/badge/LPU-Programming%20in%20C%2B%2B-blue?style=flat-square"/>
 
@@ -123,13 +122,11 @@ A structured, growing reference of DSA solutions in C++ annotated with time/spac
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/imaniketrajput?theme=dark&font=Fira%20Code&extension=activeYears" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=imaniketrajput&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
+<img src="https://leetcard.jacoblin.cool/imaniketrajput?theme=dark&font=Fira%20Code&extension=activeYears" width="90%"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imaniketrajput&theme=dark&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaniketrajput&layout=compact&theme=dark&hide_border=true" width="30%"/>
+<img src="https://ghchart.rshah.org/6C63FF/imaniketrajput" width="90%"/>
 
 </div>
 
@@ -150,5 +147,5 @@ A structured, growing reference of DSA solutions in C++ annotated with time/spac
 <div align="center">
 <sub>Open to SDE / Cloud Engineering opportunities — always happy to talk architecture, DSA, or fintech systems.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
