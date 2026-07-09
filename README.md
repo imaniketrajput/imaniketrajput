@@ -1,6 +1,7 @@
-<!-- Header Banner with Typing Animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ANIKET%20SINGH&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20AWS%20Architect%20%7C%20DSA%20Enthusiast&descAlignY=55&descAlign=50&descSize=18" width="100%" />
+<!-- Header Banner -->
+<div align="center" style="background: linear-gradient(135deg, #0F2027, #2C5364); padding: 40px 20px; border-radius: 8px;">
+  <h1 style="color:#ffffff; font-size:42px; margin:0;">ANIKET SINGH</h1>
+  <p style="color:#B8C6DB; font-size:16px; margin-top:8px;">Full Stack Developer &nbsp;|&nbsp; Cloud & AWS Architect &nbsp;|&nbsp; DSA Enthusiast</p>
 </div>
 
 <!-- Animated Typing -->
@@ -208,17 +209,11 @@
 
 <div align="center">
 
-  <div>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imaniketrajput&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imaniketrajput&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=FF6347&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" />
-  </div>
+  <img width="60%" src="https://ghchart.rshah.org/6C63FF/imaniketrajput" alt="Contribution Chart" />
 
-  <br />
+  <br/><br/>
 
-  <div>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaniketrajput&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    <img width="49%" src="https://ghchart.rshah.org/6C63FF/imaniketrajput" alt="Contribution Chart" />
-  </div>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,html,css,react,nodejs,express,flask,mysql,postgres,mongodb,git,github,aws,docker,linux&theme=dark" alt="Top Languages & Tools" />
 
 </div>
 
@@ -360,9 +355,7 @@
 
 ---
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-
-<div align="center">
-  <sub>⭐ Star my repos if you find them useful! • Built with ❤️ by <a href="https://github.com/imaniketrajput">Aniket Singh</a></sub>
+<!-- Footer -->
+<div align="center" style="background: linear-gradient(135deg, #0F2027, #2C5364); padding: 20px; border-radius: 8px; margin-top:20px;">
+  <sub style="color:#B8C6DB;">⭐ Star my repos if you find them useful! • Built with ❤️ by <a href="https://github.com/imaniketrajput" style="color:#fff;">Aniket Singh</a></sub>
 </div>
