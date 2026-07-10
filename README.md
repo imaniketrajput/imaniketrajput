@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=320&section=header&text=ANIKET%20SINGH&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=☁️%20Cloud%20%26%20DevOps%20Engineer%20%7C%20🔥%20MERN%20Stack%20Developer%20%7C%20🤖%20AI%20Explorer&descAlignY=55&descAlign=50&descSize=17&stroke=ffffff&strokeWidth=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=ANIKET%20SINGH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20and%20DevOps%20Engineer%20-%20MERN%20Stack%20Developer%20-%20AI%20Explorer&descAlignY=58&descAlign=50&descSize=17&stroke=ffffff&strokeWidth=2" width="100%" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -11,7 +11,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=120&lines=☁️+AWS+Certified+Cloud+%26+DevOps+Specialist;🔥+MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB+%7C+Express;🚀+9+AWS+Services+in+Production+%7C+PeakAlert+Project;🤖+AI+%2F+ML+%7C+Stable+Diffusion+%7C+Gemini+API;💡+SDE+Intern+%40+Bluestock+Fintech+%7C+LPU+CSE+8.75+CGPA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=AWS+Certified+Cloud+and+DevOps+Specialist;MERN+Stack+-+React+-+Node.js+-+MongoDB+-+Express;9+AWS+Services+in+Production+-+PeakAlert+Project;AI+and+ML+-+Stable+Diffusion+and+Gemini+API;SDE+Intern+at+Bluestock+Fintech+-+LPU+CSE+8.75+CGPA" alt="Typing SVG" />
 </div>
 
 <br/>
